@@ -1,2 +1,2 @@
 # mandelbrot
-Mandelbrot set visualisation.
+Mandelbrot set visualisation in Julia.
